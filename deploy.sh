@@ -1,5 +1,6 @@
 cp -fr .vim ../
 cp .bash_profile ../
+cp .tmux.conf ../
 
 mkdir ../.janus
 cd ../.janus
