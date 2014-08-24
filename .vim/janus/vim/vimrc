@@ -70,4 +70,5 @@ colorscheme railscasts
 let g:SuperTabRetainCompletionType=2
 let g:SuperTabDefaultCompletionType = "context"
 
+autocmd BufWritePre * :%s/\s\+$//e
 
