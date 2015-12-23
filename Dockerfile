@@ -1,4 +1,2 @@
-FROM wzdf1982/openface:latest
-MAINTAINER Brandon Amos <brando@gmail.com>
-
-RUN echo "hello"
+FROM ubuntu:14.04
+MAINTAINER Brandon Amos <brandon.amos.cs@gmail.com>
