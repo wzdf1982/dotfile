@@ -1,2 +1,4 @@
 FROM ubuntu:14.04
-MAINTAINER Brandon Amos <brandon.amos.cs@gmail.com>
+MAINTAINER WZD <dingjun.zhou@gmail.com>
+
+RUN apt-get update
